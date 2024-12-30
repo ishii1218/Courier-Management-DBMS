@@ -4,7 +4,11 @@ Courier Management Database System, developed for the EE4350 - Database Systems 
 The system includes:
 
 A well-structured ER diagram with 8 strong entities and 2 weak entities.
+
 Support for core database operations such as Insert, Update, and Delete.
+
 20 SQL queries for data retrieval and manipulation, including complex joins for operational insights.
+
 Performance optimization through indexing and query tuning to enhance efficiency.
+
 This project highlights our ability to design, implement, and optimize database systems for real-world applications in logistics and delivery services.
